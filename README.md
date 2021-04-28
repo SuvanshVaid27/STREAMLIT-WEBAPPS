@@ -8,10 +8,15 @@ able to convert some of my data analysis projects into web apps using Streamlit,
 ## [Simple NLP app](https://github.com/SuvanshVaid27/NLP-in-Streamlit)
 
 <p>
+  <a href = "https://nlp27.herokuapp.com/ ">
   <img src="https://github.com/SuvanshVaid27/Streamlit-Webapps/blob/main/images/word.png" width="800" height = "400" title="hover text">
+  </a>
 </p>
-
 
 
 This is an ongoing project in which I have tried to add simple NLP based functionalities for the user to play with such as word cloud, text summary, etc. I deployed
 this project on Heroku to the following link: https://nlp27.herokuapp.com/ 
+
+<hr>
+
+## [Machine Learning app]()
