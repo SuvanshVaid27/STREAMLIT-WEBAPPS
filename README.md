@@ -19,4 +19,13 @@ this project on Heroku to the following link: https://nlp27.herokuapp.com/
 
 <hr>
 
-## [Machine Learning app]()
+## [Machine Learning app](https://github.com/SuvanshVaid27/Machine-Learning-App)
+
+<p>
+  <a href = "https://ml-app27.herokuapp.com/">
+  <img src="https://github.com/SuvanshVaid27/Streamlit-Webapps/blob/main/images/ml.jpeg" width="600" height = "400" title="hover text">
+  </a>
+</p>
+
+
+  - A web application designed using Streamlit that trains a machine learning model (a Random forest classifier) on the uploaded dataset and makes predictions. I specifically chose Random Forest model here because it has a lot of hyperparametrs that the user could enjoy tuning. Also, Random Forest is one of the most widely used ML model. The app is deployed on Heroku: https://ml-app27.herokuapp.com/
