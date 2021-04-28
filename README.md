@@ -8,7 +8,7 @@ able to convert some of my data analysis projects into web apps using Streamlit,
 ## [Simple NLP app](https://github.com/SuvanshVaid27/NLP-in-Streamlit)
 
 <p>
-  <img src="" width="800" height = "400" title="hover text">
+  <img src="https://github.com/SuvanshVaid27/Streamlit-Webapps/blob/main/images/word.png" width="800" height = "400" title="hover text">
 </p>
 
 
