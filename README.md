@@ -5,7 +5,7 @@ time to the web development process. This is where Streamlit comes into the pict
 able to convert some of my data analysis projects into web apps using Streamlit, as shown below. 
 
 
-## [Simple NLP app](https://github.com/SuvanshVaid27/NLP-in-Streamlit)
+## [Simple NLP app](https://github.com/SuvanshVaid27/STREAMLIT-WEBAPPS/tree/main/NLP-in-Streamlit)
 
 <p>
   <a href = "https://nlp27.herokuapp.com/ ">
