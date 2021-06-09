@@ -41,6 +41,5 @@ A web application designed using Streamlit that trains a machine learning model 
 </p>
 
 
-A web application designed using Streamlit that trains a machine learning model (a Random forest classifier) on the uploaded dataset and makes predictions. I specifically chose Random Forest model here because it has a lot of hyperparametrs that the user could enjoy tuning. Also, Random Forest is one of the most widely used ML model. The app is deployed on Heroku: https://ml-app27.herokuapp.com/
-
+This application makes use of the tweepy api to scrape tweets in real time and then process them and display them to the user in an interesting word cloud pattern. Although this is just a simple interface built using Streamlit, there are many more potential functionalities that could be added.
 
