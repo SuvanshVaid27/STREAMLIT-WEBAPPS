@@ -35,8 +35,8 @@ A web application designed using Streamlit that trains a machine learning model 
 ## [Twitter Scraper](https://github.com/SuvanshVaid27/STREAMLIT-WEBAPPS/tree/main/Twitter-Scraper-Streamlit)
 
 <p>
-  <a href = "https://ml-app27.herokuapp.com/">
-  <img src="https://github.com/SuvanshVaid27/Streamlit-Webapps/blob/main/images/ml.jpeg" width="600" height = "400" title="hover text">
+  <a href = "https://github.com/SuvanshVaid27/STREAMLIT-WEBAPPS/tree/main/Twitter-Scraper-Streamlit">
+  <img src="https://github.com/SuvanshVaid27/STREAMLIT-WEBAPPS/blob/main/images/twitter.jpg" width="600" height = "400" title="hover text">
   </a>
 </p>
 
