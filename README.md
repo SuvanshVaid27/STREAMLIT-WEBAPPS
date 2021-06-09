@@ -32,7 +32,7 @@ A web application designed using Streamlit that trains a machine learning model 
 
 <hr>
 
-## [](https://github.com/SuvanshVaid27/STREAMLIT-WEBAPPS/tree/main/Machine-Learning-App)
+## [Twitter Scraper](https://github.com/SuvanshVaid27/STREAMLIT-WEBAPPS/tree/main/Twitter-Scraper-Streamlit)
 
 <p>
   <a href = "https://ml-app27.herokuapp.com/">
